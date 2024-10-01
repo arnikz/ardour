@@ -9,7 +9,7 @@
     <CustomDeviceMode Name="Performance Mode">
       <DeviceModeEnable>
         <MIDICommands>
-          <SysEx>F0 41<SysExDeviceID/> 46 12 00 00 00 00 00 7F F7</SysEx>
+          <SysEx>F0 41<SysExDeviceID/> 46 12 00 00 00 00 00 00 F7</SysEx>
         </MIDICommands>
       </DeviceModeEnable>
       <ChannelNameSetAssignments>
